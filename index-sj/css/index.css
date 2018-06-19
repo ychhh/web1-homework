@@ -1,0 +1,123 @@
+*{	
+	margin:0;
+	padding: 0;
+ }
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.head-p{
+	width: 750px;
+	height: 125px;
+	margin:0 auto;
+}
+.head
+{
+	width: 750px;
+	height: 115px;
+	margin: 0 auto;
+	position: relative;
+	background: #fff;
+}
+.bg
+{	
+	width: 750px;
+	height: 365px;
+	background: url(../images/bg.png);
+	margin: 0 auto;
+	position: relative;
+}
+.block1
+{
+	height: 410px;
+	width: 750px;
+	position: relative;
+	background: #fff;
+	margin: 0 auto;
+}
+.font1
+{
+	color: #666;
+	font-size: 24px;
+}
+.bar
+{
+	height: 20px;	
+	width: 750px;
+	margin: 0 auto;
+	background: #f5f5f5;
+}
+.block2
+{
+	height: 210px;
+	width: 750px;
+	margin: 0 auto;
+	background: #fff;
+	position: relative;
+}
+.block3
+{
+	height: 1085px;
+	width: 750px;
+	margin: 0 auto;
+	background: #fff;
+	position: relative;
+}
+.block4
+{
+	height: 1270px;
+	width: 750px;
+	margin: 0 auto;
+	background: #fff;
+	position: relative;
+}
+.font2
+{
+	font-size: 24px;
+	color: #000;
+	position: absolute;
+}
+.block5
+{
+	height: 675px;
+	width: 750px;
+	margin: 0 auto;
+	background: #fff;
+	position: relative;
+}
+.block6
+{
+	height: 1830px;
+	width: 750px;
+	margin: 0 auto;
+	background: #fff;
+	position: relative;
+	line-height: 36px;
+}
+.font3
+{
+	color: #33628d;
+	font-size: 26px;
+
+}
+.font4
+{
+	font-size: 22px;
+	color: #000;
+	line-height: 30px;
+}
+.end
+{
+	height: 505px;
+	width: 750px;	
+	margin: 0 auto;
+	background: #343235;
+	position: relative;
+}
+.font5
+{
+	font-size: 22px;
+	color: #fff;
+}
