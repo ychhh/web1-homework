@@ -1,0 +1,161 @@
+*{
+	padding:0;
+	margin:0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+/*head开始*/
+.head1{
+	height:48px;
+	width:100%;
+	background-color:#000;
+}
+.head1-a{
+	float:right;
+	color:white;
+	margin-left:47px;
+	padding-right:35px;
+	padding-top:17px;
+}
+.head1-smile{
+	float:right;
+	padding-top:14px;
+}
+.head1-p{
+	color:white;
+	float:right;
+	padding-top:17px;
+	margin-left:11px;
+}
+.head2{
+	height: 82px;
+	width: 100%;
+	background-color:#fff;
+}
+.head2-a{
+	float:left;
+	padding-left:42px;
+	text-align:center;
+	padding-top:15px;
+}
+.nav{
+	width: 784px;
+	height: 82px;
+	float:right;
+	padding-right:20px;
+	background-color:#fff;
+}
+.nav>li{
+	float:left;
+	color:#000;
+	height: 82px;
+	line-height:82px;
+	margin-left:54px;
+}
+.nav a{
+	color:#000;
+}
+.nav-li a{
+	height: 78px;
+	
+}
+.nav2 li{
+	width: 70px;
+	height:40px;
+	line-height:40px;
+	text-align:center;
+	background-color: #fff;
+}
+.nav-li:hover .nav2{
+	display: block;
+}
+.nav2{
+	display:none;
+}
+/*head结束*/
+.img
+{
+	height: 400px;
+	width: 100%;
+	background: url(../images/bi1.png);
+	background-size: 100% 100%;
+}
+.md
+{
+	height: 3100px;
+	width: 100%;
+	position: relative;
+}
+.m1
+{
+	height: 820px;
+	width: 1200px;
+	margin: 0 auto;
+	position: relative;
+}
+.bg1
+{
+	position: absolute;
+	top: 190px;
+	height: 580px;
+	width: 1200px;
+	background: url(../images/bg1.png);
+}
+.m2
+{
+	height: 950px;
+	width: 1200px;
+	margin: 0 auto;
+	position: relative;
+}
+.font1
+{
+	color: #000;
+	font-size: 26px;
+}
+.mb3
+{
+	height: 1400px;
+	width: 1200px;
+	margin: 0 auto;
+	position: relative;
+}
+.end
+{
+	margin-top: 0px;
+	width: 100%;
+	height: 800px;
+	background: #000;
+	position: relative;
+}
+.end-block
+{
+	width: 1200px;
+	height: 800px;
+	margin: 0 auto;
+}
+.end1
+{
+	height: 270px;
+	color: #fff;
+	font-size: 14px;
+	position: relative;
+}
+.end2
+{
+	height: 370px;
+	color: #fff;
+	font-size: 14px;
+	position: relative;
+}
+.end3
+{
+	height: 160px;
+	color: #fff;
+	font-size: 16px;
+	position: relative;
+}
